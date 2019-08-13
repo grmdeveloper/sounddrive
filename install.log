@@ -1,0 +1,14 @@
+Home directory not accessible: Permissão negada
+Não foi possível ajustar parâmetros de hardware para reprodução: Argumento inválido
+
+speaker-test 1.1.3
+
+Dispositivo de reprodução é default
+Parâmetros do stream são 48000Hz, S16_LE, 6 canais
+Arquivo(s) WAV
+Taxa alterada para 48000Hz (requisitada 48000Hz)
+Tamanho do buffer tem um intervalo de 16 à 204800
+Tamanho do período tem um intervalo de 8 à 102400
+Usando tamanho máximo de buffer 204800
+Períodos = 4
+Ajuste de parâmetros de hardware falhou: Argumento inválido
